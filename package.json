@@ -1,0 +1,16 @@
+{
+  "name": "ecmascript-c",
+  "version": "1.0.0",
+  "description": "\"Scripts from Platzi course\"",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "ECMA",
+    "JavaScript",
+    "ES6"
+  ],
+  "author": "Ricardo Perez",
+  "license": "MIT"
+}
