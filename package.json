@@ -12,5 +12,6 @@
     "ES6"
   ],
   "author": "Ricardo Perez",
-  "license": "MIT"
+  "license": "MIT",
+  "type": "module"
 }
